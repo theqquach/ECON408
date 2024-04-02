@@ -16,9 +16,8 @@ See [here](syllabus.md) for more details, a course outline, and grading informat
 5. **Review February 26th** - [Midterm Practice Problems](/problem_sets/midterm_practice_problems.ipynb)
 6. **February 28th** - MIDTERM EXAM IN CLASS
 7. **Due Midnight PST on March 24th** -  [Problem Set 4](/problem_sets/problem_set_4.ipynb)
-8. **Due Midnight PST on TBD** -  Problem Set 5 <!-- [Problem Set 5](/problem_sets/problem_set_5.ipynb) -->
-9.  **Due Midnight PST on TBD** -  Problem Set 6 <!-- [Problem Set 6](/problem_sets/problem_set_6.ipynb) -->
-10. **Reviewing TBD** - Final Practice Problems <!-- [Final Practice Problems](/problem_sets/final_practice_problems.ipynb) -->
+8. **Due Midnight PST on April 9th** -  [Problem Set 5](/problem_sets/problem_set_5.ipynb)
+9. **Reviewing April 10th/12th** - [Final Practice Problems](/problem_sets/final_practice_problems.ipynb)
 
 All problem set solutions should be submitted on Canvas directly as a `.ipynb` file with instructions embedded.
 
@@ -113,7 +112,7 @@ See [here](https://jlperla.github.io/ECON408/index.html) for links to all materi
     - **References**:
       - [Asset Pricing I: Finite State Models](https://julia.quantecon.org/multi_agent_models/markov_asset.html)
       - [Asset Pricing II: The Lucas Asset Pricing Model](https://julia.quantecon.org/multi_agent_models/lucas_model.html)
-23. **March 25th** - Problem Set and Exam Review
+23. **March 25th** - Problem Set and Midterm Exam Review
 24. **March 27th** - Guest Lecture by Paul Beaudry
 25. **April 1st** - STATUTORY HOLIDAY
 26. **April 3rd** - More on Asset Pricing and Option Pricing
@@ -121,11 +120,11 @@ See [here](https://jlperla.github.io/ECON408/index.html) for links to all materi
     - **References**:
       - [Asset Pricing I: Finite State Models](https://julia.quantecon.org/multi_agent_models/markov_asset.html)
       - [Asset Pricing II: The Lucas Asset Pricing Model](https://julia.quantecon.org/multi_agent_models/lucas_model.html)
-27. **April 8th** - Rational Expectations Equilibrium with Firm Dynamics (and the big-K, little-k trick)
+27. **April 8th** - (Time Permitting) Rational Expectations Equilibrium with Firm Dynamics (and the big-K, little-k trick)
     - **Lecture Notes**: TBD
     - **References**:
       - [Rational Expectations Equilibrium](https://julia.quantecon.org/multi_agent_models/rational_expectations.html)
-28. **April 10th** - FInish Rational Expectations, and review for final
+28. **April 10th** - Finish Rational Expectations, Problem Set Review, and Final Questions
 
 
 ## Software and Programming Environment
